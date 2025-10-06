@@ -1,6 +1,5 @@
 # Creative-CV
 
-
 ---
 
 ## 💡 Features
@@ -30,3 +29,4 @@
 🔗 **Click here to open the live site directly:**  
 [Open Creative CV](https://setayeshfarzam.github.io/Creative-CV/)
 
+> ⚠️ **Note:** This project contains placeholder content and is not a real personal profile. All text, images, and data are for demonstration purposes only.
