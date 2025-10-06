@@ -29,4 +29,4 @@
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/yourusername/creative-cv.git
+   https://setayeshfarzam.github.io/Creative-CV/
