@@ -28,5 +28,5 @@
 ## ⚙️ How to Use
 
 🔗 **View the live site:**  
-[Creative CV Live Demo](https://setayeshfarzam.github.io/Creative-CV/)
+[![View Live Site](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge)](https://setayeshfarzam.github.io/Creative-CV/)
 
