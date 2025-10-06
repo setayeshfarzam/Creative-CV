@@ -27,6 +27,6 @@
 
 ## ⚙️ How to Use
 
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/setayeshfarzam/Creative-CV.git
+🔗 **View the live site:**  
+[Creative CV Live Demo](https://setayeshfarzam.github.io/Creative-CV/)
+
