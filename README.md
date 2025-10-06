@@ -27,6 +27,6 @@
 
 ## ⚙️ How to Use
 
-1. **Clone or download** this repository:
+1. **Clone this repository**:
    ```bash
-   https://setayeshfarzam.github.io/Creative-CV/
+   git clone https://github.com/setayeshfarzam/Creative-CV.git
